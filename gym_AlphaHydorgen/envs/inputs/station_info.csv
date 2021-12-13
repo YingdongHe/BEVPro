@@ -1,3 +1,0 @@
-elyEff,elyCap,elyIdle,fuelEff,fuelCap,fuelIdle,tankCapacity,chargeCapacity
-0.74,200,40,0.6,100,20,1000,0.6
-Electrolyzer efficiency,"Electrolyzer maximum power, kW","Electrolyzer idle power, kW",Fuel cell efficiency,"Fuel cell maximum power, kW","fuel cell idle power, kW",H2 tank capacity for storing renewable-produced H2,"H2 station maximum capacity of charging H2 vehicles, kg/s"

@@ -1,0 +1,3 @@
+charEff,charCap,discEff,discCap,batteryCapacity
+0.95,200,0.95,200,1000
+Battery charging efficiency,"Maximum charging power, kW",Battery discharging efficiency,"Maximum discharging power, kW","Battery capacity for storing electricity,kWh"
